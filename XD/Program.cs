@@ -10,6 +10,7 @@ namespace XD
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("du gay");
         }
     }
 }
